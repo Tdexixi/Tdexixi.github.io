@@ -2,40 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>tdexixi.top/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="tdexixi.top/categories/"
-                />
+    <loc>tdexixi.top/p/my-second-post/</loc>
+    <lastmod>2023-01-29T23:21:24+08:00</lastmod>
+  </url><url>
+    <loc>tdexixi.top/post/</loc>
+    <lastmod>2023-01-29T23:21:24+08:00</lastmod>
+  </url><url>
+    <loc>tdexixi.top/</loc>
+    <lastmod>2023-01-29T23:21:24+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="tdexixi.top/en/categories/"
+                href="tdexixi.top/en/"
                 />
-  </url><url>
-    <loc>tdexixi.top/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="tdexixi.top/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="tdexixi.top/en/tags/"
-                />
-  </url><url>
-    <loc>tdexixi.top/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
                 href="tdexixi.top/"
                 />
+  </url><url>
+    <loc>tdexixi.top/p/my-first-post/</loc>
+    <lastmod>2023-01-27T13:44:03+08:00</lastmod>
+  </url><url>
+    <loc>tdexixi.top/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="tdexixi.top/en/"
+                href="tdexixi.top/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="tdexixi.top/categories/"
+                />
+  </url><url>
+    <loc>tdexixi.top/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="tdexixi.top/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="tdexixi.top/tags/"
                 />
   </url>
 </urlset>
