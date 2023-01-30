@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>xiaoxiaoyuxie</title>
-        <link>tdexixi.top/en/</link>
+        <link>https://tdexixi.top/en/</link>
         <description>Recent content on xiaoxiaoyuxie</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="tdexixi.top/en/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://tdexixi.top/en/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
